@@ -12,15 +12,6 @@ It removes empty rows, duplicate rows, and trims extra spaces from data.
 - Trim whitespace from all cells
 - Saves cleaned data to a new CSV file
 
-📁 Project Structure:
-
-universal_csv_cleaner/
-├── LICENSE           # MIT License - Legal terms
-├── http://README.md         # Project documentation
-├── http://requirements.txt  # Dependencies: pandas
-├── clean_data.py     # Main script to clean CSV
-├── raw_data.csv      # Input file [Add your file here]
-└── clean_data.csv    # Output file [Generated after running]
 
 *Full http://README.md with structure included:*
 If you want the whole thing ready to paste:
