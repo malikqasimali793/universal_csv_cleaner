@@ -12,11 +12,8 @@ It removes empty rows, duplicate rows, and trims extra spaces from data.
 - Trim whitespace from all cells
 - Saves cleaned data to a new CSV file
 
-## 📁 Project Structure
-Got it ✅ Here’s the project structure in a *code block* you can paste directly into `README.md`
+📁 Project Structure:
 
-*Copy this into your http://README.md:*
-📁 Project Structure
 universal_csv_cleaner/
 ├── LICENSE           # MIT License - Legal terms
 ├── http://README.md         # Project documentation
