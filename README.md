@@ -22,6 +22,24 @@ It removes empty rows, duplicate rows, and trims extra spaces.
 - Remove empty rows
 - Remove duplicate rows  
 - Trim whitespace from all cells
+# Universal CSV Cleaner
+Author: Malik Qasim Ali
+
+A simple Python tool to clean CSV files by removing empty rows, duplicates, and extra whitespace.
+
+## Features
+- Remove empty rows
+- Remove duplicate rows
+- Trim whitespace from all cells
+- Saves cleaned data to `clean_data.csv`
+
+## Requirements
+- Python 3.8+
+- pandas
+
+Install pandas:
+```bash
+pip install pandas
 
 📁 Project Structure:
 
