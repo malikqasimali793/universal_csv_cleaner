@@ -27,8 +27,7 @@ It removes empty rows, duplicate rows, and trims extra spaces.
 
 universal_csv_cleaner/
 ├── LICENSE           # MIT License - Legal terms
-├── http://README.md         # Project documentation
-├── http://requirements.txt  # Dependencies: pandas
+├── Dependencies: pandas
 ├── clean_data.py     # Main script to clean CSV
 ├── raw_data.csv      # Input file [Add your file here]
 └── clean_data.csv    # Output file [Generated after running]
