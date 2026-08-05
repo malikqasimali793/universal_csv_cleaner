@@ -1,7 +1,7 @@
          universal_csv_cleaner
 
 
-By Malik Qasim Ali
+By Isma Malik 
 
 A simple Python tool to automatically clean CSV files. 
 It removes empty rows, duplicate rows, and trims extra spaces from data.
@@ -13,7 +13,7 @@ It removes empty rows, duplicate rows, and trims extra spaces from data.
 - Saves cleaned data to a new CSV file
 
 Universal CSV Cleaner
-By Malik Qasim Ali
+built by Isma Malik
 
 A simple Python tool to automatically clean CSV files. 
 It removes empty rows, duplicate rows, and trims extra spaces.
@@ -23,7 +23,7 @@ It removes empty rows, duplicate rows, and trims extra spaces.
 - Remove duplicate rows  
 - Trim whitespace from all cells
 # Universal CSV Cleaner
-Author: Malik Qasim Ali
+Author: Isma Malik
 
 A simple Python tool to clean CSV files by removing empty rows, duplicates, and extra whitespace.
 
